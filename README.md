@@ -6,8 +6,11 @@ Three user level
 3.Normal user
 
 For running the web application you must be download XAMPP server for hosting the web site in the crome browser.
+
 First put the codes into the htdocs file then open the XAMPP server and start the APACHY and MYsql 
+
 After that open the crome browser and type http://localhost/AlumniManagementSystem/
+
 For the Database the URL is : http://localhost/phpmyadmin/
  
 
